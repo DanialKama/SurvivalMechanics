@@ -20,4 +20,4 @@ You can also access the game launcher and pictures of the project [here](https:/
 
 The assets included are listed below, and some of them were made by myself.
 - [FX Variety Pack](https://www.unrealengine.com/marketplace/en-US/product/a36bac8b05004e999dd4b1d332501f49)
-- Most animations are from [Mixamo](https://www.mixamo.com/), fonts from [DaFont](https://www.dafont.com/), and sounds from [Freesound](https://freesound.org/)
+- Most animations are from [Mixamo](https://www.mixamo.com/), fonts from [DaFont](https://www.dafont.com/), icons from [FlatIcon](https://www.flaticon.com/), and sounds from [Freesound](https://freesound.org/)
