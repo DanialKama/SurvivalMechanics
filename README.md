@@ -1,8 +1,8 @@
 # Survival Mechanics
 ## Introduction
-This project is a third-person project with survival game mechanics developed in Unreal Engine 4.
-If you have any questions or suggestions about this project, talk to me on [LinkedIn](https://www.linkedin.com/in/danialkamali/).
-You can also access the game launcher and pictures of the project [here](https://mega.nz/folder/OTwCVRya#Becpl5rb-6gDNcKP1p6vNw).
+This project is a third-person survival game mechanics developed in Unreal Engine 4.
+[DM](https://discord.com/users/810853382193545227) me if you have any questions or suggestions.
+You can also access the project demo and pictures [here](https://mega.nz/folder/OTwCVRya#Becpl5rb-6gDNcKP1p6vNw).
 
 ## Concepts covered
 - Inventory system (with the use or drop item ability)
