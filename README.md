@@ -1,6 +1,6 @@
 # Survival Mechanics
 ## Introduction
-This project is a third-person survival game mechanics developed in Unreal Engine.
+This project is a third-person survival game mechanics developed in Unreal Engine.  
 You can access the project demo and pictures [here](https://mega.nz/folder/OTwCVRya#Becpl5rb-6gDNcKP1p6vNw).
 
 ## Concepts covered
