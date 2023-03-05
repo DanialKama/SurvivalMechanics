@@ -1,12 +1,17 @@
 # Survival Mechanics
-## Introduction
-This project is a third-person survival game mechanics developed in Unreal Engine.
 
-## Concepts covered
-- Inventory system (with the use or drop item ability)
+## Introduction
+This project contains basic mechanics for a survival game.  
+All the systems are designed in a way that makes them easy to understand and expand.
+
+## Features
+- Inventory system
 - Health, hydration, and hunger
-- Interactable actors (fruit tree, pond, bed, and chair)
+- Interactable actors
 - Checkpoints system
+
+## Additional Notes
+If you have any questions or suggestions, please feel free to [message me](https://github.com/DanialKama#-connect-with-me).
 
 ## Credits
 - [FX Variety Pack](https://www.unrealengine.com/marketplace/en-US/product/a36bac8b05004e999dd4b1d332501f49)
